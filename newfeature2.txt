@@ -1,0 +1,5 @@
+THIS NEW FILE IS ADDED TO THE DEV BRANCH
+
+Now we are working on branch dev.... 
+
+new feature2 added to dev branch!!! 
